@@ -9,7 +9,7 @@ education:
     "Self-Taught Developer",
     "Student at University (Informatics Engineering)",
   ]
-company: CV. Lucy Teknolgy
+company: CV. Lucy Teknology
 
 fields_of_interests:
   [
