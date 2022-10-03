@@ -26,7 +26,7 @@ technical_background:
   ]
   
 currently_learning: ["Go Languange", "WebRTC", "CI/CD"]
-2022 Goals: ["Graduate from university."]
+goals_in_2022: ["Graduate from university"]
 hobbies: ["Cinema", "Comedy", "Hangout in Coffee Shop", "Thought Sharing", "Book"]
 ```
   
