@@ -25,7 +25,7 @@ technical_background:
     "Freelance - Fullstack Developer"
   ]
   
-currently_learning: ["Go Languange", "WebRTC", "CI/CD"]
+currently_learning: ["Go Languange", "Typscript", "Java", "WebRTC", "CI/CD"]
 goals_in_2022: ["Graduate from university"]
 hobbies: ["Cinema", "Comedy", "Hangout in Coffee Shop", "Thought Sharing", "Book"]
 ```
