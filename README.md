@@ -9,7 +9,7 @@ education:
     "Self-Taught Developer",
     "Student at University (Informatics Engineering)",
   ]
-company: CV. Lucy Teknology
+company: PT. Solusi Konvergen Indonesia
 
 fields_of_interests:
   [
